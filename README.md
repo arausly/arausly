@@ -1,6 +1,8 @@
 # 💫 About Me:
 Currently building HawkeyeAfrica<br>meddling with AI agents and LLMs<br>I think 🤔, I code 💻.
 
+See some of my previous [projects](https://arausly.github.io/portfolio-v1.github.io/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arausi-daniel-65a659127) 
